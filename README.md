@@ -1,4 +1,5 @@
 # App Name: Local Sports
+
 # Project structure: 
 gameapp/
 ├─ apps/
