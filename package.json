@@ -1,0 +1,22 @@
+{
+  "name": "localsports",
+  "version": "1.0.0",
+  "description": "Local Sports app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cmmh1101/local-sports.git"
+  },
+  "author": "Carla Montano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cmmh1101/local-sports/issues"
+  },
+  "homepage": "https://github.com/Cmmh1101/local-sports#readme",
+  "dependencies": {
+    "supabase": "^2.54.11"
+  }
+}
